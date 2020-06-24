@@ -1,9 +1,9 @@
 # # تمرين سريع
 
-##  قم بإتباع الخطوات التالية
+ والصق ما تجده في ملف نصي errorsابحث في الانترنت عن هذه الا 
 
-1. لهذا المجلد Fork قم بعمل
-2. GitHub Desktop قم بفتح المجلد عن طريق  
-3. GitHub Desktop عن طريق SPEED **افتح** 
-4. GitHub بعد اجابتك قم **برفع** المجلد لحسابك 
+1. R.layout.main Cannot Be Found / Cannot Resolve Symbol R
+2. Error Installing APK  
+3. NullPointerException 
+ 
 -------------------
